@@ -40,7 +40,7 @@
 		
 		$source = 'http://rokh.chehrak.com/';
 		$default = '';
-		$size = '100';
+		$size = '128';
 		$chehrak_query_str = '?size=' . $size;
 
 		global $profileuser;
